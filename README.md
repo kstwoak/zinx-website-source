@@ -1,8 +1,7 @@
 # zinx-website-source
 
 
-
-## 该项目是 zinx 官网的文件源
+> 该项目是 zinx.me 官网的文件源
 
 
 ## 修改zinx官网流程
@@ -73,17 +72,17 @@ npm install hexo-generator-archive --save
 ```
 
 
-5、生成静态文件
+6、生成静态文件
 ```bash
  hexo generate --debug
 ```
 
-6、本地运行
+7、本地运行
 ```bash
 hexo server 
 ```
 
-7、远程部署
+8、远程部署
 ```
 hexo deploy
 ```
